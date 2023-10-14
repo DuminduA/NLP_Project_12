@@ -1,6 +1,7 @@
 {
     "Dumbledore": "Dumbledore",
     "Mcgonagall": "McGonagall",
+    "McGonagall": "McGonagall",
     "Hagrid": "Hagrid",
     "Petunia": "Aunt Petunia",
     "Aunt Petunia": "Aunt Petunia",
@@ -31,5 +32,7 @@
     "Hermoine": "Hermione",
     "Neville": "Neville",
     "Malfoy": "Draco Malfoy",
-    "Draco": "Draco Malfoy"
+    "Draco": "Draco Malfoy",
+    "All": "All",
+    "All 3": "All"
 }
